@@ -1,6 +1,6 @@
 # How to run my API:
 
-1. git clone https://github.com/NicholasRoy96/api.git
+1. git clone https://github.com/NicholasRoy96/coinsumption_api.git
 
 2. cd into api
 
